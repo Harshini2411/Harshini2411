@@ -8,11 +8,11 @@
 
 <img align='right' src="https://cdn.dribbble.com/users/3876574/screenshots/9793041/media/caa92517d4334534292910fff3b9df4d.gif" width="300">
 
-💫 About Me :
+# 💫 About Me :
 
 - 😄 Pronouns: She/Her
 
-- 👩‍🎓 I'm an undergrad student at Vel Tech University,TamilNadu **majoring in CSE**
+- 👩‍🎓 Undergrad student at Vel Tech University,TamilNadu **majoring in CSE**
 
 - 🌱 I’m currently learning **DevOps**
 
